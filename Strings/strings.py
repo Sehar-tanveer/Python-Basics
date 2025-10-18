@@ -36,7 +36,7 @@ print("lower():", text.lower())
 print("upper():", text.upper())
 print("count('Hello'):", text.count('Hello'))
 
-# find / index
+# find
 print("find():", text.find("Python"))
 
 new_text = text.replace('Python', 'World')
